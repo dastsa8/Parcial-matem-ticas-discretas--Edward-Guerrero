@@ -1,6 +1,5 @@
-﻿# Parcial-matem-ticas-discretas--Edward-Guerrero
+﻿# Parcial matemáticas discretas
 
-PARCIAL MATEMATICAS DISCRETAS
 Edward Jampiere Patiño Guerrero
 
 Algoritmo de Dijkstra para encontrar la ruta más corta en un grafo.
