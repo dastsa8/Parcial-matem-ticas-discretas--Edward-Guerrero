@@ -1,9 +1,10 @@
 ﻿# Parcial-matem-ticas-discretas--Edward-Guerrero
 
 PARCIAL MATEMATICAS DISCRETAS
+Edward Jampiere Patiño Guerrero
 
 Algoritmo de Dijkstra para encontrar la ruta más corta en un grafo.
-Edward Jampiere Patiño Guerrero
+
 Funcionamiento general:
 El grafo se representa como un diccionario, donde cada nodo tiene vecinos con pesos.
 Se usa una cola de prioridad para ir siempre por el nodo con menor costo en total.
